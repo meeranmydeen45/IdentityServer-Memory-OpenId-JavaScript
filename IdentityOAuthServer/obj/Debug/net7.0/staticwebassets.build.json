@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LHA0RqgJWQHANrhDjr6Tt4OyEBv9vMzgzkdC0rNNsAA=",
+  "Source": "IdentityOAuthServer",
+  "BasePath": "_content/IdentityOAuthServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

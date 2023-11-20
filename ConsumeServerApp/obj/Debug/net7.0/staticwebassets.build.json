@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "//OZdOT8neWSTOAfyQKOhW4JPdiPj9s7YhAGUbywzJU=",
+  "Source": "ConsumeServerApp",
+  "BasePath": "_content/ConsumeServerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

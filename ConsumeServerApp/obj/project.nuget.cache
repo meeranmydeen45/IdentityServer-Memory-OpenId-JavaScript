@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "un3sRt3LmLtx62a+HV3PkJlq43MrlqvoFVoJ9C2ZeRwJ9MAWzc2AQ45Uq7/dLNekF8j/a7NtoaDEH4MrpwUg8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meeran\\source\\repos\\Authentication and Authorization\\IdentityServer Memory OpenId JavaScript\\ConsumeServerApp\\ConsumeServerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.12\\microsoft.aspnetcore.authentication.jwtbearer.7.0.12.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\7.0.12\\microsoft.aspnetcore.authentication.openidconnect.7.0.12.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\meeran\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
